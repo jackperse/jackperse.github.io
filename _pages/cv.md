@@ -7,6 +7,5 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 You can find my [CV here](files/Jackperse_CV.docx-1.pdf)
